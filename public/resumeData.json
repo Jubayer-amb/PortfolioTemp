@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
+    "name": "Jubayer Al Mamun",
     "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Jubayer.I'm a newbie! Love to learn & do coding and all those stuffs! ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "jubayeramb@gmail.com",
+    "phone": "+880 1850130813",
     "address": {
       "street": "123 Fake Street",
       "city": "London",
       "state": "UK",
       "zip": "ABC 123"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/JubayerAMB",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/Jubayer-amb/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/Jubayer-amb",
         "className": "fa fa-github"
       }
     ]
@@ -43,10 +43,10 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Dania University College",
+        "degree": "HSC",
+        "graduated": "Cndidate of 2020",
+        "description": "Stucked with COVID19!"
       }
     ],
     "work": [
@@ -66,11 +66,11 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "10%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "70%"
       },
       {
         "name": "Git",
@@ -78,7 +78,7 @@
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "30%"
       },
       {
         "name": "HTML5",
@@ -131,7 +131,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Jubayer Al Mamun must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
